@@ -23,7 +23,7 @@ If the STR counts match exactly with any of the individuals in the CSV file, we'
 I used REGULAR EXPRESSIONS in this task and saved 100+ lines of code just by googling for Pattern Matching :smiley: . 
 
 ## Sources:
-* [PATTERN MATCHING WITH REGULAR EXPRESSIONS](http://www.google.fr/ "Automate The Boring Stuff")
+* [PATTERN MATCHING WITH REGULAR EXPRESSIONS](https://automatetheboringstuff.com/2e/chapter7// "Automate The Boring Stuff")
 * [Regex Tester](https://regex101.com// "RE Testing")
 
 
