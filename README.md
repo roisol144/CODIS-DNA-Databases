@@ -37,7 +37,7 @@ Charlie  | 36  | 18  | 25
 
 
 ## How To Run:
-Open project's folder in your terminal and run one of this commands:
+Open project's directory in your terminal and run one of this commands:
 
  ```python dna.py databases/(small/large).csv sequences/(1-20).txt```
 
