@@ -35,3 +35,15 @@ Alice  | 28  | 42  | 14
 Bob  | 17  | 22  | 19  
 Charlie  | 36  | 18  | 25
 
+
+## How To Run:
+Open project's folder in your terminal and run one of this commands:
+'python dna.py databases/small.csv sequences/1.txt'
+'python dna.py databases/small.csv sequences/2.txt'
+'python dna.py databases/small.csv sequences/3.txt'
+'python dna.py databases/small.csv sequences/4.txt'
+'python dna.py databases/large.csv sequences/5.txt'
+'python dna.py databases/large.csv sequences/6.txt'
+'python dna.py databases/large.csv sequences/7.txt'
+
+
